@@ -38,7 +38,7 @@ Este espaço é destinado principalmente para:
 ## 📞 Suporte e Contato
 Para obter suporte ou tirar dúvidas sobre o uso dos repositórios:
 - Abra uma issue neste repositório
-- Entre em contato com a equipe pelo email: fabrica.software@sergipetec.org.br
+- Entre em contato com a equipe pelo email: suporte.sergipetec@sergipetec.org.br
 
 ## 🔒 Política de Privacidade
 Por se tratar majoritariamente de projetos internos, a maioria dos repositórios é privada. O compartilhamento de código, documentação ou qualquer outro material destes repositórios com pessoas externas à organização deve ser previamente autorizado pela coordenação.
